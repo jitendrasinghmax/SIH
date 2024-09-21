@@ -1,5 +1,5 @@
 export default()=>{
     return(<>
-    this is landing page
+    <h1 className="bg-red-400">this is landing page</h1>
     </>)
 }
